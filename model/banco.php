@@ -72,13 +72,6 @@ class Banco{
         }
     }
 
-    public function deleteCadastro($id){
-        $stmt = $this->mysqli->query("DELETE FROM cadastro WHERE `id` = '" . $id . "';");
-        if( $stmt > 0){
-            return true;
-        } else{
-            return false;
-        }
-    }
+   
 }    
 ?>
