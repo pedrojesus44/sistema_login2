@@ -38,7 +38,7 @@
                                     <a class="nav-link active" aria-current="page" href="#">Cadastro</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="consulta.php">Consulta</a>
+                                    <a class="nav-link" href="">Consulta</a>
                                 </li>
                             </ul>
                         </div>
